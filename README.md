@@ -1,11 +1,11 @@
-### Olá eu sou o Moisés ✌️
+Olá eu sou o Moisés ✌️
 
-### Redes Sociais
+Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moises.sutil/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mois%C3%A9s-schmitz-sutil-974a38231/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisessutil&show_icons=true&theme=transparent)
 
-### Tecnologias 
+Tecnologias 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
